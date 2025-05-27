@@ -137,6 +137,10 @@ https://par.nsf.gov/biblio/10554721-ice-wedge-network-centerline-ice-wedge-polyg
 
 ![image](https://github.com/user-attachments/assets/14f54b39-4d08-486b-967e-c20558da4a98)
 
+### 4.1. Product value meaning
+1) Value -1 means there are no IWPs calculated in this pixel.
+2) Value -99 means there is an outlier of oversized IWP geopackages when downloading.
+
 ## 5. References
 Witharana, C., Bhuiyan, M. A. E., & Liljedahl, A. K. (2020). Big Imagery and High Performance Computing as Resources to Understand Changing Arctic Polygonal Tundra. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 44, 111-116.
 
